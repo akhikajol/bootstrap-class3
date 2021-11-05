@@ -1,0 +1,29 @@
+.box1{
+    height: 120px;
+    background-color: #4b7bec;
+    margin-bottom: 10px;
+    font-size: 25px;
+    color: white;
+    
+}
+.box2{
+    height: 120px;
+    background-color: #ff4d4d;
+    margin-bottom: 10px;
+    font-size: 25px;
+    color: white;
+}
+.box3{
+    height: 120px;
+    background-color:#833471 ;
+    margin-bottom: 15px;
+    font-size: 25px;
+    color: white;
+}
+.box4{
+    height: 120px;
+    background-color: #7d5fff;
+    margin-bottom: 15px;
+    font-size: 25px;
+    color: white;
+}
